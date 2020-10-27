@@ -1,4 +1,19 @@
+#title {
+    text-align: center;
+}
+
+#img-div {
+    background-color: #eee;
+    text-align: center;
+
+}
+
+#img-caption {
+    padding: 15px;
+}
+
 #image{
-    width: 100%;
+    max-width: 100%;
     height: auto;
+    display: block;
 }
