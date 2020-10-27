@@ -1,11 +1,25 @@
-#title {
+#main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #eee;
+    padding:10px;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+h2{
+    font-weight: 300;
+}
+
+    #title {
     text-align: center;
 }
 
 #img-div {
-    background-color: #eee;
+    background-color: #fff;
     text-align: center;
-
 }
 
 #img-caption {
@@ -16,4 +30,8 @@
     max-width: 100%;
     height: auto;
     display: block;
+}
+
+#tribute-info{
+    text-align: center;
 }
